@@ -1,4 +1,4 @@
-### Hi, I'm Shiv 👋
+### Hi, I'm ShivPrasad Devkatte 👋
 
 🎯 **Goal**  
 Working towards becoming a **Software Development Engineer (SDE)**.
